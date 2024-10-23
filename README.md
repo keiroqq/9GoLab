@@ -15,3 +15,31 @@
 6)	Тестирование и отладка:
 •	Проведите тестирование взаимодействия клиента и сервера.
 •	Проверьте работу всех маршрутов и функций.
+
+Интерфейс:
+
+![image](https://github.com/user-attachments/assets/fa23bc55-d896-4126-af07-e719c36a1ab7)
+
+1) Вывод пользоователей:
+
+![image](https://github.com/user-attachments/assets/2522ecac-cc3e-412e-ab7c-0e0aec0ceffb)
+
+2) Создание юзера:
+
+![image](https://github.com/user-attachments/assets/c130d494-4c95-4a0a-914b-72c5de00f06c)
+
+![image](https://github.com/user-attachments/assets/99683e2b-f6f7-4ae2-a572-bf46e4163ba1)
+
+3) Обновление юзера:
+
+![image](https://github.com/user-attachments/assets/36da4185-4331-41b7-8e40-15f8b3a7dc0b)
+
+![image](https://github.com/user-attachments/assets/331bc6f4-4ebd-4aed-95d7-edc9e2da760e)
+
+4) Удаление юзера:
+
+![image](https://github.com/user-attachments/assets/7ca1d4e1-5d4b-4915-8381-7f345b2efd97)
+
+Юзер удален из бд:
+
+![image](https://github.com/user-attachments/assets/02ce21b9-87b3-4142-8527-1aea6876e515)
